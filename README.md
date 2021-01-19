@@ -1,4 +1,8 @@
 # Cfb
+
+https://github.com/ROMI-AFRZL/Cfb/blob/main/Cfb/Screenshot_20210119-211925.png
+
+
 ### perintah
 ```` bash
 pkg update && pkg upgrade
