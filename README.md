@@ -1,6 +1,6 @@
 # Cfb
 
-<img src="https://github.com/ROMI-AFRZL/Cfb/blob/main/Cfb/Screenshot_20210119-211925.png
+<img src="https://github.com/ROMI-AFRZL/Cfb/blob/main/Cfb/Screenshot_20210119-211925.png" width="640" title="Menu" alt="Menu">  
 
 
 ### perintah
